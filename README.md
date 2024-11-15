@@ -19,6 +19,13 @@
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/vn7n24fzkq">
+                    <img src="https://avatars.githubusercontent.com/u/20241522?v=4" width="100;" alt="vn7n24fzkq"/>
+                    <br />
+                    <sub><b>Casper</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/kayac-chang">
                     <img src="https://avatars.githubusercontent.com/u/32451546?v=4" width="100;" alt="kayac-chang"/>
                     <br />
@@ -30,13 +37,6 @@
                     <img src="https://avatars.githubusercontent.com/u/5981459?v=4" width="100;" alt="FlandreDaisuki"/>
                     <br />
                     <sub><b>Chun-Hao Lien</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/vn7n24fzkq">
-                    <img src="https://avatars.githubusercontent.com/u/20241522?v=4" width="100;" alt="vn7n24fzkq"/>
-                    <br />
-                    <sub><b>Casper</b></sub>
                 </a>
             </td>
             <td align="center">
